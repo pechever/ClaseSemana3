@@ -34,6 +34,7 @@ def contar_pares(lista):
     return contador
  
 # Obtener la lista de números desde el usuario
+
 entrada = input("Ingrese una lista de números separados por espacios: ")
 numeros = [int(x) for x in entrada.split()]
  
