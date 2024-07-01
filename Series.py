@@ -22,4 +22,11 @@ def fibonacci(n):
         a,b=b,a+b
         l.append(b)
     return l
+
+#Eddy Alejandro Armijo Garcia 
+def multiplicar(a, b):
+    return a * b
+
+resultado = multiplicar(2, 6)
+print(str(resultado))
     
