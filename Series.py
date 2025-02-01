@@ -23,3 +23,12 @@ def fibonacci(n):
         l.append(b)
     return l
     
+# Carlos Andres VIllagran Ochoa
+def masc(a,b,c):
+    if a==b:
+        vel=a*c
+    elif b==c:
+        vel=a*b
+    else:
+        vel=a*b*c
+    return vel
