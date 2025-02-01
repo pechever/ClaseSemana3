@@ -23,3 +23,9 @@ def fibonacci(n):
         l.append(b)
     return l
     
+# Alfonso Fernado Vega Salgado
+
+def mul(a,b):
+    m=a*b
+    return m
+    
