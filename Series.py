@@ -30,3 +30,7 @@ q = 15
 producto = p * q
 print(f"El producto de {p} y {q} es {producto}")
 print("-----------------------------------")
+<<<<<<< HEAD
+=======
+
+>>>>>>> 495a68a6dbde6952db5ef0507a5354ef6a2cc6ff
